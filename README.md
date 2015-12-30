@@ -1,4 +1,4 @@
-# ThemeJqueryFlat
+# Theme Jquery UI Flat
 Thème JQuery UI Flat Design
 
 Couleur grise et orange :
